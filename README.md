@@ -1,5 +1,5 @@
 
-## Hello, world! :us: :brazil:
+## Hello, world!
 ## My name is Lucas Dogo and I'm from Brazil - :brazil:
 
 ---
