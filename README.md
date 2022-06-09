@@ -18,7 +18,7 @@
 
 ### `Welcome to my profile`
 --- 
-## :bookmark_tabs: Info:
+## :🤓: About me:
 I'm a `Computer Science's Student` Currently I'm studying C and C++ !
   I pretend to be a **Full Stack Developer** focused in AI. 
 
