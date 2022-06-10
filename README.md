@@ -69,7 +69,7 @@
 - Cars
 - American Psycho
 - All American Pies
-<p> (Randon Fact: Snow white is my favorite princess) </p>
+<p> (Randon Fact: Snow White is my favorite princess) </p>
 
 --- 
 ## 🎞️FAVORITE SERIES:
