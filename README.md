@@ -45,6 +45,12 @@
 --- 
 ## 🎶 FAVORITE SONGS:
 - <a href="https://www.youtube.com/watch?v=TZQsoLACMW0">TIM MAIA - GOSTAVA TANTO DE VOCE</a>
+- <a href="https://www.youtube.com/watch?v=GnNcV664p1A">Engelbert Humperdinck - A Man Without Love</a>
+- <a href="https://www.youtube.com/watch?v=tG7wLK4aAOE">Joji - YEAH RIGHT/a>
+- <a href="https://www.youtube.com/watch?v=yz9XNWEH2oI">Alceu Valença, Elba Ramalho, Geraldo Azevedo - Anunciação/a>
+- <a href="https://https://www.youtube.com/watch?v=fePnUenEZPk">Lil Peep - beamer boy/a>
+    <p> YAS, I'M ECLECTIC </p>
+ 
 
 
 
