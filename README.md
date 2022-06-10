@@ -30,7 +30,7 @@
 - Be fluently in English 🇺🇸 🇬🇧
 - Be fluently in Germany 🇩🇪
 - Travel to Tokyo 🇯🇵
-- Living in switzerland 🇨🇭
+- Living in Switzerland 🇨🇭
 - Be fluently in Java,JS,Python
 - Working with IA 🤖
 - Have a good job 🔥
@@ -69,6 +69,7 @@
 - Cars
 - American Psycho
 - All American Pies
+(Randon Fact: Snow white is my favorite princess)
 
 --- 
 ## 🎞️FAVORITE SERIES:
