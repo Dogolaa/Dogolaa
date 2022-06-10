@@ -49,7 +49,7 @@
 - <a href="https://www.youtube.com/watch?v=tG7wLK4aAOE">Joji - YEAH RIGHT/a>
 - <a href="https://www.youtube.com/watch?v=yz9XNWEH2oI">Alceu Valença, Elba Ramalho, Geraldo Azevedo - Anunciação/a>
 - <a href="https://https://www.youtube.com/watch?v=fePnUenEZPk">Lil Peep - beamer boy /a>
-    <p> YAS, I'M ECLECTIC </p>
+ 
  
 
 
