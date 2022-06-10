@@ -52,7 +52,8 @@
 <p> YAS, I'M ECLECTIC (i really listen to all kinds of music lmao) !!!!! </p>
 
 --- 
-## 🍿FAVORITE ANIMES:****
+## 🇯🇵🎬FAVORITE ANIMES:
+- All of Studio Ghibli
 - Death Note
 - Naruto
 - Demon Slayer
