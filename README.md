@@ -49,7 +49,35 @@
 - <a href="https://www.youtube.com/watch?v=tG7wLK4aAOE">Joji - YEAH RIGHT </a>
 - <a href="https://www.youtube.com/watch?v=yz9XNWEH2oI">Alceu Valença, Elba Ramalho, Geraldo Azevedo - Anunciação </a>
 - <a href="https://https://www.youtube.com/watch?v=fePnUenEZPk">Lil Peep - beamer boy </a>
-<p> YAS, I'M ECLECTIC (i really listen to all kinds of music) !!!!! </p>
+<p> YAS, I'M ECLECTIC (i really listen to all kinds of music lmao) !!!!! </p>
+
+--- 
+## 🍿FAVORITE ANIMES:****
+- Death Note
+- Naruto
+- Demon Slayer
+- Tokyo Revengers
+- Jujutsu Kaisen
+
+--- 
+## 🍿FAVORITE MOVIES:
+- V for Vendetta
+- Fight Club
+- Drive
+- Taxi Driver
+- Cars
+- American Psycho
+- All American Pies
+
+--- 
+## 🎞️FAVORITE SERIES:
+- Breaking Bad
+- How I Met Your Mother
+- The Office 
+- Brooklin 99
+- Everybody Hates Chris
+- Stranger Things
+
  
  
 
