@@ -31,7 +31,7 @@
 - be fluent in German 🇩🇪
 - Travel to Tokyo 🇯🇵
 - Living in Switzerland 🇨🇭
-- Be fluently in Java,JS,Python
+- Be fluent in Java,JS,Python
 - Working with AI 🤖
 - Have a good job 🔥
 - Build a family 👪
