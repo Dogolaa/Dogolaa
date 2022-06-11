@@ -27,12 +27,12 @@
 
 --- 
 ## 💭 Dreams:
-- Be fluently in English 🇺🇸 🇬🇧
-- Be fluently in Germany 🇩🇪
+- be fluent in English 🇺🇸 🇬🇧
+- be fluent in German 🇩🇪
 - Travel to Tokyo 🇯🇵
 - Living in Switzerland 🇨🇭
 - Be fluently in Java,JS,Python
-- Working with IA 🤖
+- Working with AI 🤖
 - Have a good job 🔥
 - Build a family 👪
 
