@@ -56,18 +56,13 @@
 - All of Studio Ghibli
 - Death Note
 - Naruto
-- Demon Slayer
-- Tokyo Revengers
-- Jujutsu Kaisen
+
 
 --- 
 ## 🍿FAVORITE MOVIES:
 - V for Vendetta
-- Fight Club
 - Drive
-- Taxi Driver
 - Cars
-- American Psycho
 - All American Pies
 <p> (Randon Fact: Snow White is my favorite princess) </p>
 
@@ -78,7 +73,7 @@
 - The Office 
 - Brooklin 99
 - Everybody Hates Chris
-- Stranger Things
+  
 
  
  
