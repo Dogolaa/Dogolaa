@@ -27,8 +27,10 @@
 
 --- 
 ## 📱 Contact:
+- Linkedin: linkedin.com/in/lucasdogo
 - Email: lucasdogo01@gmail.com
 - Instagram: @lucasdogo
+  
 
  
  
