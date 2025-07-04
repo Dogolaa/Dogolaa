@@ -8,7 +8,7 @@
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Dogolaa&theme=react&show_icons=true&count_private=true" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogolaa&theme=react&layout=compact" />
     </td>
   </tr>
