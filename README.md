@@ -18,7 +18,7 @@
 
 Sou um **Desenvolvedor Backend** com foco na construção de microsserviços escaláveis e de alta performance. Minha paixão é usar a tecnologia para resolver problemas complexos, aplicando boas práticas de arquitetura de software.
 
-  - 💼 **Desenvolvedor de Backend (Estágio)** na **ICRO Digital** (04/2025 - presente), atuando no desenvolvimento e manutenção de microsserviços robustos com TypeScript, NestJS, TypeORM e PostgreSQL.
+  - 💼 **Desenvolvedor de Backend (Estágio)** na **ICRO Digital** (04/2025 - 07/2025), atuando no desenvolvimento e manutenção de microsserviços robustos com TypeScript, NestJS, TypeORM e PostgreSQL.
   - 🎓 Cursando **Bacharelado em Ciência da Computação** na Universidade Federal de Alfenas - UNIFAL/MG (2020 - presente).
   - 🛠️ Minha experiência prática envolve o desenvolvimento de aplicações seguindo princípios como **Domain-Driven Design (DDD)** e **CQRS**.
   - ⚙️ Atuo na criação e manutenção de todas as camadas da aplicação, da API ao domínio, utilizando **RabbitMQ** para comunicação assíncrona e garantindo a performance e segurança das soluções.
